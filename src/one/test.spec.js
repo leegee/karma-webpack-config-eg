@@ -1,4 +1,4 @@
-import { one } from '.';
+import { one } from './index.mjs';
 
 describe('one', () => {
     it('tests', () => {
